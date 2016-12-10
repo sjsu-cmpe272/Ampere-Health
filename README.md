@@ -1,5 +1,4 @@
 # Ampere-Health
-# ampere_health_app
 
 #Pre-requisite:
 1. Mongo DB Installed
